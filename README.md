@@ -43,7 +43,7 @@ solution. The solution will end up in the build folder.
 
 In order to run Massgate, you need a MySQL server it can connect to and a 
 database prepared with data and tables. The commands to create them can be
-found in the SQL file under the database folder. 
+found in the SQL file under the share/sql folder. 
 
 To set up MySQL on localhost using the command line tool would look 
 something like this:
@@ -58,7 +58,7 @@ Query OK, 0 rows affected (0.00 sec)
 mysql> grant all on live.* to 'massgateclient'@'localhost' identified by 'clientpassword';
 Query OK, 0 rows affected (0.00 sec)
 
-mysql> source database/databasestructure.sql
+mysql> source share/sql/databasestructure.sql
 ```
 
 In order for Massgate to be able to connect to the database, the hosts
