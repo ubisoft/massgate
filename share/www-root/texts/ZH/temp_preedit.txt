@@ -1,0 +1,115 @@
+YOU SHOULD CAREFULLY READ THE FOLLOWING END USER LICENSE AGREEMENT BEFORE INSTALLING THIS SOFTWARE PROGRAM. BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE PROGRAM, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PROMPTLY RETURN THE UNUSED SOFTWARE PROGRAM TO THE PLACE OF PURCHASE OR CONTACT SIERRA ENTERTAINMENT, INC.’S CUSTOMER SERVICE AT 800-757-7707 FOR A FULL REFUND OF THE PURCHASE PRICE WITHIN 30 DAYS OF THE ORIGINAL PURCHASE. 
+
+This software program and any files that are provided by Sierra Entertainment to you by on-line transmission or otherwise to ‘patch,’ ‘update,’ or modify the software program, inclusive of “New Materials” as defined in Section 1 below, as well as any printed materials, on-line or electronic documentation, and any and all copies and derivative works of such software program and materials (collectively, the “Program”) are the copyrighted work of Massive Entertainment, AB and/or, its affiliates specifically including Sierra Entertainment, Inc., its licensors, licensees and suppliers, (collectively referred to herein as “Licensor”).  All use of the Program is governed by the terms of the End User License Agreement which is provided below ("License Agreement"). The Program is solely for use by end users according to the terms of the License Agreement. Any use, reproduction or redistribution of the Program not in accordance with the terms of the License Agreement is expressly prohibited.
+
+END USER LICENSE AGREEMENT
+
+1. 	Limited Use License. Licensor hereby grants, and by installing the Program you thereby accept, a limited, non-exclusive license and right to install and use one (1) copy of the Program for your use on a home, business or portable computer. In addition, The Program has a multi-player capability that allows users to utilize the Program over the Internet via the Massgate service (“Massgate”). Your use of the Program over the Internet shall be subject to (i) your creating an account to utilize the Program (your “Account”) via the Massgate Service and (ii) your acceptance of Massgate’s Terms of Use Agreement, which may be updated or modified at any time. The Program may also contain a Campaign Editor (the "Editor") that allows you to create custom levels or other materials for your personal use in connection with the Program ("New Materials"). All use of the Editor or any New Materials is subject to this License Agreement. The Program is licensed, not sold. Your license confers no title or ownership in the Program.
+
+2.	Terms of Use.  As mentioned above, you must accept the Terms of Use in order to access Massgate to utilize the Program. The Terms of Use agreement governs all aspects of game play. You may view the Terms of Use by visiting the following website: www.worldinconflict.com/tos/en.  If you do not agree with the Terms of Use, then you may not register for an Account to utilize the Program.
+
+3. 	Ownership. All title, ownership rights and intellectual property rights in and to the Program and any and all copies thereof (including but not limited to any titles, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, any related documentation, and "applets" incorporated into the Program) are owned by Licensor or its licensors. The Program is protected by the copyright laws of the United States, international copyright treaties and conventions and other laws. All rights are reserved. The Program contains certain licensed materials and Licensor’s licensors may protect their rights in the event of any violation of this Agreement.  The Program may access websites owned, controlled by, or operated by licensed affiliates of Licensor, and receive patches and/or updates to the Program from these websites. All patches, updates or other downloadable material used by, or incorporated into, the Program are the copyrighted property of Licensor, who reserves all rights therein, and shall be governed by the terms and conditions of this Agreement.
+
+4.	Responsibilities of End User.
+A.	Subject to the Grant of License hereinabove, you may not, in whole or in part, copy, photocopy, reproduce, translate, reverse engineer, derive source code, modify, disassemble, decompile, create derivative works based on the Program, or remove any proprietary notices or labels on the Program without the prior consent, in writing, of Licensor.
+B. 	The Program is licensed to you as a single product. Its component parts may not be separated for use on more than one computer. 
+C. 	You are entitled to use the Program for your own use, but you are not entitled to:
+(i)	sell, auction, or grant a security interest in or transfer reproductions of the Program to other parties in any way, nor to rent, lease or license the Program to others without the prior written consent of Licensor.
+(ii)	exploit the Program or any of its parts for any commercial purpose including, but not limited to, use at a cyber café, computer gaming center or any other location-based site without the prior written consent of Licensor; 
+(iii)	use or allow third parties to use New Materials for any commercial purpose, including, but not limited to distribution of such New Materials on a stand-alone basis, and/or packaged with other software or hardware through any and all distribution channels, including, but not limited to, retail sales and on-line electronic distribution, without the express written consent of Licensor;
+(iv)	host or provide matchmaking services for the Program or emulate or redirect the communication protocols used by Licensor in the network feature of the Program, through protocol emulation, tunneling, modifying or adding components to the Program, use of a utility program or any other techniques now known or hereafter developed, for any purpose including, but not limited to network play over the Internet, network play utilizing commercial or non-commercial gaming networks or as part of content aggregation networks without the prior written consent of Licensor; 
+(v)	create or maintain, under any circumstance, more than one simultaneous connection to Massgate. All such connections to Massgate, whether created by the Program or by other tools and utilities, may only be made through methods and means expressly approved by Licensor. Under no circumstances may you connect, or create tools that allow you to connect to Massgate’s, private binary interface or interfaces other than those explicitly provided by Licensor for public use.
+D.	Patches, Updates and collection of crash data.  Licensor may deploy or provide patches, updates and modifications to the Program that must be installed for you to continue to utilize the Program.  Licensor may update the Program remotely, including, without limitation, the Program residing on your machine, without your knowledge or consent, and you hereby grant to Licensor your consent to deploy and apply such patches, updates and modifications.  Additionally, the Program may include a tool that will allow your system to forward system and driver information to Licensor in the event of a crash. This tool will collect data on the system during the crash and send such information to Licensor and you hereby grant to Licensor your consent to forward to Licensor such  information in the event of a crash for diagnostic purposes.
+  
+5.	Program Transfer. You may permanently transfer all of your rights under this License Agreement, provided the recipient agrees to the terms of this License Agreement and you agree to remove the Program and any New Materials from your home, business or portable computer.
+
+6. 	Termination. This License Agreement is effective until terminated. You may terminate the License Agreement at any time by destroying the Program and any New Materials. Licensor may, at its discretion, terminate this License Agreement in the event that you fail to comply with the terms and conditions contained herein. In such event, you must immediately destroy the Program and any New Materials.
+ 
+7. 	Export Controls. The Program may not be re-exported, downloaded or otherwise exported into (or to a national or resident of) any country to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Commerce Department’s Table of Denial Orders. By installing the Program, you are agreeing to the foregoing and you are representing and warranting that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+
+8. 	Customer Service/Technical Support. "Customer Service" as used herein may be provided to you by Licensor’s representatives by telephone and/or by electronic message (e-mail). "Technical Support" may be provided to you by Licensor by telephone, electronic message (e-mail), or by posting of information related to known technical support issues on a web site. Unless otherwise stated in the Program's packaging or in the Program's user manual, nothing herein shall be construed so as to place a duty upon Licensor to provide Customer Service or Technical Support via a toll-free telephone number for an unlimited period of time.
+
+9. 	Duration of the “On-Line” Component of the Program. This Program contains an “on-line” component that allows you to utilize the Product over the Internet utilizing servers and software maintained by Licensor and/or its affiliates.  Licensor may, in its sole discretion, provide the servers and software technology necessary to utilize the “on-line” component of the Program, or Licensor may license to third parties the right to provide the servers and software technology necessary to utilize the “on-line” component of the Program. However, nothing contained herein shall be construed so as to place an obligation upon Licensor to provide the servers and software technology necessary to utilize the “on-line” component beyond the time that the Program is Out of Publication. The term “Out of Publication” as used herein shall mean that the Program is no longer being manufactured by Licensor. 
+
+10. 	Limited Warranty. Licensor expressly disclaims any warranty for the Program, any New Materials and Manual(s). The Program, any New Materials and Manual(s) are provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The entire risk arising out of use or performance of the Program, any New Materials and Manual(s) remains with the User, however Licensor warrants up to and including 90 days from the date of your purchase of the Program that the media containing the Program shall be free from defects in material and workmanship. In the event that the media proves to be defective during that time period, and upon presentation to Licensor of proof of purchase of the defective Program, Licensor will at its option 1) correct any defect, 2) provide you with a product of equal or lesser value, or 3) refund your money. Some states do not allow the exclusion or limitation of implied warranties or liability for incidental damages, so the above limitations may not apply to you.
+
+11. 	Limitation of Liability. NEITHER LICENSOR, ITS PARENT, SUBSIDIARIES, ITS LICENSORS OR AFFILIATES SHALL BE LIABLE IN ANY WAY FOR LOSS OR DAMAGE OF ANY KIND RESULTING FROM THE USE OF THE PROGRAM AND ANY NEW MATERIAL INCLUDING, BUT NOT LIMITED TO, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES. ANY WARRANTY AGAINST INFRINGEMENT THAT MAY BE PROVIDED IN SECTION 2-312(3) OF THE UNIFORM COMMERCIAL CODE AND/OR IN ANY OTHER COMPARABLE STATE STATUTE IS EXPRESSLY DISCLAIMED.  FURTHER, LICENSOR, ITS PARENT AND MASSGATE SHALL NOT BE LIABLE IN ANY WAY FOR THE LOSS OR DAMAGE TO PLAYER CHARACTERS, ACCOUNTS, STATISTICS OR USER PROFILE INFORMATION STORED.  LICENSOR, IT’S PARENT, AND MASSGATE SHALL NOT BE RESPONSIBLE FOR ANY INTERRUPTIONS OF SERVICE INCLUDING, BUT NOT LIMITED TO, ISP DISRUPTIONS, SOFTWARE OR HARDWARE FAILURES, OR ANY OTHER EVENT WHICH MAY RESULT IN A LOSS OF DATA OR DISRUPTION OF SERVICE. Some states do not allow the exclusion or limitation of incidental or consequential damages, or allow limitations on how long an implied warranty lasts, so the above limitations may not apply.
+
+12. 	Equitable Remedies. You hereby agree that Licensor would be irreparably damaged if the terms of this License Agreement were not specifically enforced, and therefore you agree that Licensor shall be entitled, without bond, other security, or proof of damages, to appropriate equitable remedies with respect to breaches of this License Agreement, in addition to such other remedies as Licensor may otherwise have available to it under applicable laws. In the event any litigation is brought by either party in connection with this License Agreement, the prevailing party in such litigation shall be entitled to recover from the other party all the costs, attorneys’ fees and other expenses incurred by such prevailing party in the litigation.
+
+13. 	Limitations on License.  Nothing in this License Agreement shall preclude you from making or authorizing the making of another copy or adaptation of the Program and any New Materials provided, however, that (1) such new copy or adaptation is created as an essential step in your utilization of the Program and any New Materials in accordance with the terms of this License Agreement and for NO OTHER PURPOSE; or (2) such new copy or adaptation is for archival purposes ONLY and all archival copies are destroyed in the event of your Transfer of the Program and any New Materials, the Termination of this Agreement or other circumstances under which your continued use of the Program and any New Materials ceases to be rightful.
+ 
+14.	Choice of Laws.  If you reside in the United States of America (U.S.A.), this License Agreement shall be deemed to have been made and executed in the State of California and any dispute arising hereunder shall be resolved in accordance with the law of California. You agree that any claim asserted in any legal proceeding by one of the parties against the other shall be commenced and maintained in any state or federal court located in the State of California, County of Los Angeles, having subject matter jurisdiction with respect to the dispute between the parties. If you reside outside the U.S.A., this License Agreement shall be governed by and construed in accordance with the laws applicable in your country of residence. Those who choose to access this program through the Service from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+
+15.	Use of SpeedTree Software .  Interactive Data Visualization, Inc. has specific contractual language requirements regarding the use of their SpeedTree software that Licensor is required to include in this End User License Agreement.    
+A.	You will comply with all requirements imposed upon Licensor by third party service providers and its licensors, including, without limitation, Interactive Data Visualization, Inc. (“IDV”).
+B.	You acknowledge and agree that you are not a third party beneficiary of any agreements between Licensor and its third party service providers and its licensors, including, without limitation, IDV.
+C.	You acknowledge and agree that IDV is and shall be a third party beneficiary of this End User License Agreement.
+D.	You acknowledge and agree that no claim, action, or demand shall lie against IDV with respect to any loss, cost, liability, damages, or expense arising out of or related to this End User License Agreement or the IDV Software / Programs.  For purposes of clarity, you shall not file any suit or bring any cause of action against IDV with respect to this End User License Agreement or the IDV Software / Programs.
+E.	You acknowledge IDV has not made any warranties to you with respect to the IDV Software / Programs, that IDV expressly disclaims implied warranties of merchantability or fitness for a particular purpose, and that IDV has no obligation to honor any warranties that Licensor may provide to you in this End User License Agreement or otherwise.
+F.	IDV retains any and all right, title, interest, and intellectual property rights in and to the IDV Software / Programs, including any results and/or proceeds created by you using the IDV Software / Programs that may be embedded in the End User License Agreement, and no title to such IDV Software / Programs, including any results and/or proceeds, is transferred to you or any third party through this End User License Agreement or otherwise.
+G.	Neither you nor any of its agents or consultants shall assign, sublicense, transfer, reproduce, copy, modify, disassemble, decompile, or otherwise reverse engineer any portion of the IDV Software / Programs; provided, however, that you may make results and/or proceeds available, at no charge or fee (i.e., You may not charge a license or other fee for such results and/or proceeds), to other properly licensed end users of the World in Conflict program including the IDV Software / Programs as part of a “map editor.”
+H.	You shall adhere to all applicable laws, regulations and rules relating to the export of technical data and shall not export or re-export any technical data, any products received from Licensor, or the direct product of such technical data to any proscribed country listed in such applicable laws, regulations and rules unless properly authorized.
+16.  	Miscellaneous. This License Agreement may be amended, altered or modified only by an instrument in writing, specifying such amendment, alteration or modification, executed by both parties. In the event that any provision of this License Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provision will be enforced to the maximum extent permissible and the remaining portions of this License Agreement shall remain in full force and effect. This License Agreement constitutes and contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior oral or written agreements.
+
+I hereby acknowledge that I have read and understand the foregoing License Agreement and agree that the action of installing the Program is an acknowledgment of my agreement to be bound by the terms and conditions of the License Agreement contained herein. I also acknowledge and agree that this License Agreement is the complete and exclusive statement of the agreement between Licensor and myself and that the License Agreement supersedes any prior or contemporaneous agreement, either oral or written, and any other communications between Licensor and myself.
+
+World in Conflict and Massive Entertainment are trademarks of Massive Entertainment, AB. All rights reserved. 
+
+軟體著作授權合約
+Software License Agreement
+凡使用本程式者，均視同同意並接受下列軟體著作授權合約之規範，合約中之「程式」包含附隨於此一合約之軟體、相關媒介物、任何印刷資料、任何線上或電子文件，以及所有這些軟體與資料之複製品與其所衍生的作品；本程式一經  貴用戶拆開包裝並／或使用，即表示  貴用戶同意接受松崗科技股份有限公司(下稱“松崗科技”)之本「授權合約」條款之拘束。
+
+一、有限使用授權：
+松崗科技授予  貴用戶使用本程式之一套拷貝之非專有、不可轉移、且有限度之權利，並且僅供  貴用戶個人使用，所有在本授權書中未明文授予使用者之權利，均由松崗科技或其授權人所保留。本程式僅係授權使用，而非販售賣斷， 貴用戶僅取得使用本程式之授權，並非因此而取得本程式之著作或商標等相關權利，並且不應解釋為販售本程式之任何權利。
+
+二、著作等權利： 
+本程式及其拷貝之一切商標、著作與相關智慧財產權（包含但不僅限於本程式中的所有商標、程式碼、主題、物件、人物、人物名稱、故事、對話、標語、地點、概念、美術、動畫、聲音、樂曲、音效與視覺效果、操作方式、道德權利，以及任何相關文件），均為松崗科技或其授權人所有。本程式受到美國著作權法、中華民國著作權法暨其國際著作權條約，以及其他法律之保護。本程式包含了某些授權資料，如有任何違反此一協議之行為，松崗科技或授權人會保護其權利並進行一切相關之法律追訴行動。
+
+三、禁止使用項目：
+本合約明文禁止對本程式或其任何部分進行商業利用，包含（但不僅限於）在網咖、遊樂場或任何其他場所使用暨其下列所述之違法行為：
+1、在未經松崗科技書面同意之下，為販售、出租、散佈本程式或其任何拷貝之行為。
+2、對本程式之整體或部分進行還原工程（Reverse engineer）、取得原始程式碼、修改、解編（Decompile）、反向組譯（Disassemble），或者創作本程式之衍生作品。
+3、移除、更改或遮蓋任何包含於本程式之上或之內版權宣告或商標。
+4、在違反任何適用法律或規定之下為輸出或再輸出本程式之行為，惟松崗科技得以合約方式提供上述以外之途徑或場所，授權並允許  貴用戶得將本程式做商業用途之使用(請參考後文之聯絡方式)。
+
+四、有限保證：
+1、松崗科技向本程式之原始購買者保證，自購買日起九十天內，載錄本程式之媒介物不會有材料與製作上之瑕疪。惟如  貴用戶自購買日起九十天內載錄媒介發生損壞情形，只要該程式仍由松崗科技製造生產，松崗科技同意免費更換產品，然  貴用戶應提供該產品之購買收據、回郵，以及購買日期之證明；在該程式已經絕版的情況下，松崗科技保留以等值或更高價之類似程式替換之權利。本項保證僅限於由松崗科技所提供之包含本程式之載錄媒介，並不適用於正常之磨損，如果產品乃因不當使用或輕忽所造成，亦不適用本項保證。任何由條文所指定之保證均明確限制在前述之九十天期限之內方屬有效。
+
+2、此外，本保證取代所有其他不論是明示或默示之口頭或書面保證，包括適售性、合於某一特定用途，或者不侵權之保證，且其他的陳述或任何要求均不得約束松崗科技，或要求松崗科技負責。
+
+3、當貴用戶退回程式換取保證替代品時，請將原本之產品光碟放於保護包裝之中；其所退之物應包含：
+(1) 印有購買日期之收據影本；(2) 打字或清楚列印之  貴用戶姓名與寄回地址；(3) 簡短描述損害情形，以及當　貴用戶在執行本程式時所遭遇之問題與所使用系統配備；(4) 如果貴用戶過了九十天保證期，但仍在購買日的一年之內退回本程式，每張遊戲光碟應附上原價65折的材料費。請注意：建議使用掛號信郵寄，並寄至以下地址。
+
+松崗科技股份有限公司
+網路遊戲客戶服務部
+台北市中山區民生東路2段168號10樓
+
+五、損害暨責任限制 ：
+1、在相關法律所允許的最大範圍內，經由擁有、使用或無法使用本程式所造成之意外或附隨之損害（包含財產損害、精神損失、電腦當機或失效，以及個人傷害），儘管松崗科技之前已經獲知這些損害之可能性，松崗科技亦不負任何法律責任。松崗科技的賠償不會超過支付使用本程式授權的實際金額。
+2、有些州／國家不允許限制默示保證之時間長短，或者排除或限制意外或附隨之傷害，因此上述的限制排除或責任限制可能不適用於貴客戶，本保證授予您特定的法律權利，而隨著管轄範圍之不同，您可能會擁有其他的權利。
+
+六、合約終止：
+在不侵害松崗科技任何或其他權利的情況之下，如果  貴用戶違反了本合約之條文，本合約將立即終止。在此情形下，  貴用戶必須將本軟體產品之所有備份與組成部分銷毀。
+
+七、美國政府的有限權利 ：
+本程式與文件說明完全由私人花費所開發完成，提供做為「商用電腦軟體」或是「受限制電腦軟體」，由美國政府或其承包商之使用、複製或公開受到「科技資料及電腦軟體」（Rights in Technical Data and Computer Software）條款DFARS 252.227-7013附屬條例 (c)(1)(ii) 之限制，亦視情況受「商用電腦軟體有限權利條款」（Commercial Computer Software Restricted Rights）FAR 52.227-19的附屬條例 (c)(1) 及 (c)(2) 之約束；本產品之代理/製造商為松崗科技股份有限公司。
+
+八、禁制令：
+由於本合約之條款若無特定強制執行效力，松崗科技將會受到無法彌補的損害，故 貴用戶同意松崗科技除了在適用法律下能獲得的賠償之外，得不受限制而擁有其他損害之保障與請求，以在本合約受到違反時能獲得公正的賠償。
+
+九、保全條款：
+貴用戶同意保全、維護松崗科技及其合夥人、成員、承包商、高級職員、主管、職員與代理商免於各種因為您依照或疏於遵守本合約款使用本程式之行為而直接或間接造成之各種傷害、損失與花費。
+
+十、其他事項：
+1、本合約代表了雙方對此一授權之完全協議，並且取代雙方之間的先前所有協議，合約唯有在雙方以書面方式之下方能修改。如果本授權合約中有任何條款因任何原因以致無法強制執行時，此類條款應做最小之必要修正使之得以強制執行，而合約中其他的條款則不受影響。本保證僅限適用於中華民國台灣及澎湖、金門、馬祖地區所有。
+2、本合約適用中華民國之相關法令解釋，惟松崗科技亦得選擇指定適用著作權人國家之法律與管轄；同時您同意受到加州洛杉磯的州立與聯邦法院之專門管轄。
+3、如果貴用戶有任何關於本授權書之問題，得與松崗科技聯絡，聯絡方式如下： 
+
+十一、其他限制：
+本合約之相關保證項目不包括使用者的軟體及相關資料遺失、失竊、意外損壞、使用不當或未經同意更改而導致之損壞。除了上述各項保證外，任何其他直接、隱含之表示方式、狀況、或擔保均不再保證之內。此外，對於因特殊的、因事件而起、非直接或其他類似的損壞，松崗公司並不負任何賠償責任。亦即松崗公司不對時間損失、資料損失、利潤損失或未使用本軟體之損失等等負責賠償任。松崗公司另對於使用不變、或相關之狀況所造成之損失亦不作賠償或以其他軟體作為賠償之代替。
+
+如果貴用戶有任何關於本授權書之問題，得與松崗科技聯絡，聯絡資訊如下：
+松崗科技股份有限公司
+台北市中山區民生東路2段168號10樓
+

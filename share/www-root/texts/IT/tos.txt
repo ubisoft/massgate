@@ -1,0 +1,89 @@
+WORLD IN CONFLICT
+
+ACCORDO SULLE CONDIZIONI DI UTILIZZO
+
+IMPORTANTE! LEGGERE ATTENTAMENTE.
+
+INSTALLANDO WORLD IN CONFLICT, ACCETTATE DI ESSERE VINCOLATI DALLE CONDIZIONI DEL PRESENTE ACCORDO. SE NON SI ACCETTA IL PRESENTE ACCORDO, NON INSTALLARE IL SOFTWARE WORLD IN CONFLICT. 
+
+Massgate ("Massgate") e un servizio privato fornito da Massive Entertainment, AB. ("Massive") per consentire l'accesso all'ambiente on-line di Massive (il "Servizio") a determinati prodotti software di Massive abilitati Massgate.
+
+1. Accordo di licenza. Massive concede una licenza d'uso limitata, revocabile e non esclusiva, che voi accettate utilizzando il Servizio e/o facendo clic sul comando "ACCETTA" posto piu sotto, per l'accesso al Servizio per un uso personale e non commerciale tramite un prodotto sviluppato da Massive per l'utilizzo sul Servizio. Massive puo revocare la seguente licenza in qualsiasi momento e a sua unica ed assoluta discrezione, per qualunque motivo o senza motivo, con o senza comunicazione previa.
+
+2. Informazioni di registrazione. L'utilizzo del servizio richiede la registrazione di un account e, per il completamento del processo di registrazione, verra richiesto di fornire un nome di accesso e, per tutti i prodotti software di Massive abilitati Massgate, il codice individuale di accesso "CD-Key" proveniente da un prodotto software di Massive abilitato Massgate. Massive richiedera un indirizzo e-mail durante il processo di registrazione, che potrete fornire se desiderato. Durante il processo di registrazione sara inoltre richiesto di scegliere un nome utente e una password specifici per il vostro Account (in seguito detti collettivamente "Password"). Tale Password dovra essere sempre mantenuta confidenziale. La responsabilita per la sicurezza della Password e esclusivamente vostra. Non e concesso di rivelare la Password a nessuno o permettere l'uso della vostra Password a qualsiasi altra persona. Massive non e responsabile per eventuali danni all'account derivanti dallo smarrimento della Password o di Password condivisa (inclusi, senza limitazione, l'eliminazione o modifica dei personaggi presenti nell'Account). Il nome utente da voi scelto sara soggetto alle regole relative contenute nel presente Accordo sulle condizioni di utilizzo. 
+
+3. Restrizioni d'uso. Acconsentite a:
+(i)	non utilizzare prodotti software che intercettino o analizzino ("packet sniffing") le comunicazioni fra Massgate e i server Massgate, inclusi, senza limitazione, software in grado di acquisire informazioni su chiavi di accesso "CD-Key" non ottenute tramite modalita autorizzate, account scaduti e/o nomi di personaggi;
+
+(ii)	non utilizzare software di terze parti per visualizzare informazioni di gioco, incluse e senza limitazione, le statistiche della partita in corso o qualsiasi altra informazione che non sia rivelata da prodotti di Massive o dal Servizio.
+
+(iii)	non utilizzare difetti di programmazione ("bug") o sfruttare elementi del Prodotto di Massive o del Servizio per ottenere un vantaggio competitivo nel gioco o interferire su altri utenti del Servizio;
+
+(iv) 	non chiedere ad altri utenti il proprio nome di account, password o codice di accesso CD-Key;
+
+(iv)	non creare ne fornire servizi di gioco per qualsiasi programma software di Massive o emulare o reindirizzare i protocolli di comunicazione utilizzati da Massive o Massgate;
+
+(v)	non sfruttare il Servizio o una qualsiasi delle sue parti per scopi commerciali di qualunque tipo, inclusi e senza limitazione (a) utilizzo in cyber cafe, sale giochi o altri luoghi dove gli utenti debbano corrispondere un pagamento, orario o in altra forma, per l'utilizzo del Servizio, (b) non accumulare beni virtuali (ad es. armature, equipaggiamenti, armi e rifornimenti presenti nel gioco) ne valuta di gioco per la vendita o lo scambio senza il previo accordo scritto di Massive; (c) non fornire beni o valuta virtuale in relazione a vendite o scambi non autorizzati; (d) non vendere ne scambiare personaggi o account. Per gli scopi di questo appartato, "vendita" e "scambio" si riferiscono esclusivamente a transazioni comprensive di compensi "del mondo reale" di qualche natura, ad es. scambiare valuta "del mondo reale" con valuta di gioco;
+
+(vi)	non utilizzare alcun software creato da terze parti per modificare il software di Massgate o qualsiasi software Massive al fine di cambiare le meccaniche di gioco, inclusi e senza limitazione trucchi e/o manipolazioni software o software che automatizzi il gioco in alcun modo; 
+
+(vii)	non iniziare, sostenere ne partecipare a tentativi di interruzione di qualsiasi tipo, come "denial of service attack" e "flooding attack", rivolti contro il Servizio o altri utenti che lo utilizzino;
+
+(ix) 	non molestare, minacciare, spiare, imbarazzare o causare angoscia, attenzioni non richieste o disagio in altri utenti di Massgate o interferire con l'esperienza di gioco di Massgate in alcun modo; 
+
+(x)	non trasmettere, pubblicare o comunicare in alcun modo contenuti sessualmente espliciti, minacciosi, illegali o offensivi, incluso e senza limitazione, fornire collegamenti a siti Internet, messaggi o immagini sessualmente espliciti, minacciosi, illegali o offensivi tramite il Servizio (individuati secondo la sola e assoluta discrezione di Massive); 
+
+(xi)	non impersonare alcuna persona vivente, inclusi e senza limitazione qualsiasi dipendente di Massive; 
+
+(xii)	non trasmettere, pubblicare ne fornire collegamenti a siti Internet che illustrino o offrano download di "catene di San Antonio", "cashbot", piani piramidali ne offrire qualsiasi altra pubblicita non richiesta, promozione o invito sul Servizio o attraverso di esso; 
+
+(xiii)	non violare alcuna legge o regolamento applicabile in relazione all'utilizzo del Servizio; 
+
+(xiv)	non modificare alcun file distribuito con o creato da Massgate o un gioco abilitato Massgate senza il previo consenso scritto di Massive;
+
+(xv)	non stabilire o mantenere, simultaneamente e in qualsiasi circostanza, piu di una connessione a Massgate per Account.
+
+(xvi)	non collegarsi a ne contribuire alla creazione o distribuzione di strumenti che consentano di collegarsi al Servizio; 
+
+(xvii)	non comunicare, pubblicare ne fornire collegamenti a informazioni personali di un utente sul Servizio o attraverso di esso. 
+
+
+Il mancato rispetto di queste regole puo risultare in un intervento di Massive nei vostri confronti, che puo comprendere: (i) la sospensione temporanea del vostro accesso al Servizio; (ii) l'interruzione permanente del vostro accesso al Servizio; (iii) se pertinente, la trasmissione degli atti compiuti alle autorita competenti. Senza limitare quanto riportato in precedenza, Massive si riserva il diritto di precludere il Servizio a qualsiasi utente che violi il presente Accordo sulle condizioni di utilizzo. Nel caso in cui le vostre azioni violino qualsiasi legge statale, federale o locale, Massive si riserva il diritto di sottoporre l'accaduto alla valutazione delle forze dell'ordine. 
+
+4. Diritto assoluto di Massive alla sospensione, interruzione e/o rimozione dell'account. MASSIVE PUO SOSPENDERE, INTERROMPERE, MODIFICARE O RIMUOVERE 'ACCOUNT IN QUALSIASI MOMENTO, PER QUALSIASI MOTIVO O SENZA ALCUN MOTIVO, CON O SENZA COMUNICAZIONE PREVIA. Per finalita esplicative e non di limitazione, la maggior parte delle sospensioni, interruzioni e/o rimozioni di account sono il risultato di violazioni delle presenti Condizioni di utilizzo o dell'Accordo di licenza. 
+
+5. Regole relative ai nomi. Si informa che Massive ha sviluppato delle restrizioni riguardanti la creazione dei nomi utilizzati per il Servizio, inclusi e senza limitazione, nomi di personaggi e account. Durante la creazione di un nome utente, occorre attenersi alle seguenti regole oltre che alle regole del comune decoro. Massive potra proibire, a sua sola e assoluta discrezione, qualsiasi nome utente che consideri offensivo o inadatto.
+
+In particolare, non e concesso l'utilizzo di qualsiasi nome:
+
+(i). appartenente ad altra persona allo scopo di impersonarla, inclusi e senza esclusione, i nomi di qualsiasi dipendente o agente di Massive;
+
+(ii). che comprenda turpiloquio o termini che siano considerati offensivi, diffamatori, volgari, osceni, detestabili o discutibili dal punto di vista razziale, etnico o sotto qualsiasi altro punto di vista;
+
+(iii). appartenente a qualsiasi figura o divinita religiosa;
+
+(iv). appartenente a qualsiasi figura o entita politica o per altre ragioni controversa.
+
+(v). relativo a droghe, sesso, alcol o attivita criminali;
+
+Non e concesso utilizzare grafie scorrette o alternative per aggirare le restrizioni dei nomi sopra indicate, ne e concesso utilizzare un "nome" e "cognome" che violino tali restrizioni quando sono combinati.
+
+6. Osservanza del procedimento legale. Massive puo, con o senza avvertimento previo, divulgare i vostri indirizzi Internet Protocol (IP) e email e qualsiasi altra informazione riguardante voi o le vostre attivita in seguito a richiesta scritta delle forze dell'ordine, ordine giudiziario o qualsiasi altro procedimento legale. Massive puo utilizzare o divulgare le vostre informazioni personali se ritiene che cosi facendo puo proteggere la vostra sicurezza o quella degli altri. 
+
+7. Trasmissione di contenuti verso il Servizio. Il Servizio offre diverse possibilita di trasmissione di contenuti verso di esso, inclusi e senza limitazione, le chatroom e i forum. Tali contenuti possono includere, ma non sono necessariamente limitati a, file informatici, foto, programmi software, modifiche di gioco, mappe, etc. (il "Contenuto"). Acconsentite a che il Contenuto da voi fornito: (a) non infranga alcuna proprieta intellettuale di terze parti o altri diritti proprietari o di pubblicita/privacy; (b) non violi alcuna legge o regolamento; (c) non sia diffamatorio, osceno o pornografico (d) non contenga virus informatici, "trojan horse", "worm", "time bomb" o qualsiasi altra procedura informatica tesa a danneggiare, interferire negativamente, intercettare clandestinamente o raccogliere qualsiasi dato di sistema o informazione personale. Concedete a Massive un diritto mondiale, perpetuo, irrevocabile, privo di royalty, sublicenziabile (tramite livelli multipli) di utilizzazione (compresi gli usi commerciali e non commerciali), pubblicazione, distribuzione, riproduzione, esecuzione e rappresentazione pubblica del Contenuto. 
+
+8. Informazioni presenti su Massgate. Massive non avvalla ne sostiene l'accuratezza, veridicita o affidabilita di qualsiasi informazione (comprese le opinioni dichiarate o i consigli) forniti su o tramite Massgate. Qualsiasi affermazione fatta in forum, conferenze, sessioni di chat o in altro modo riflette esclusivamente l'opinione del proprio autore. 
+
+9. Termine dell'accordo. Il presente accordo e valido fino a risoluzione effettuata da una delle parti. Potete risolvere il presente accordo in qualsiasi momento cessando qualsiasi uso del Servizio e distruggendo qualsiasi materiale ad esso collegato. Massive puo risolvere il presente accordo con o senza giustificazione o comunicazione, a sua esclusiva discrezione. Senza limitare quanto riportato in precedenza, Massive puo risolvere questo accordo qualora le vostre azioni non rispettino un termine di questo Accordo, incluse e senza limitazioni, azioni distruttive, imbrogli e preparazione di attacchi contro un server di Massive. Massive si riserva il diritto di segnalare qualsiasi attivita illegale alle forze dell'ordine. 
+
+10. Accettazioni. Riconoscete e accettate (i) di essere responsabile di qualsiasi costo e tariffa relativo alla vostra connessione al Servizio, (ii) che Massive possa raccogliere determinate informazioni identificative riguardanti il vostro computer e sistema operativo, oltre a dati "non personali" che vi riguardino durante la vostra navigazione su Internet e senza alcuna notifica (iii) che, nel caso in cui il vostro indirizzo dovesse essere rivelato ai vostri compagni di squadra e/o avversari nel corso del gioco in determinate modalita durante l'utilizzo del Servizio, Massive non avra alcuna responsabilita nei vostri confronti riguardo alle azioni di altri giocatori che potrebbero utilizzare questa informazione negativamente contro di voi; (iv) che non avete alcun diritto di proprieta o interesse nei dati o relativo ai dati registrati da Massive, inclusi e senza limitazione personaggi dei giocatori, account, statistiche, profili utente, armi, armature, missioni e mappe ("Dati on-line") e che Massive puo modificare o eliminare in modo permanente i Dati on-line a sua esclusiva discrezione e senza notifica; e (v) che siete personalmente responsabili e passibili per le conseguenze che potrebbero risultare da una vostra violazione dei termini del presente Accordo, personalmente o tramite le azioni di altri a cui avete concesso l'uso del vostro account in violazione di questo Accordo, inclusi e senza limitazione la chiusura del vostro account e la perdita dei vostri nomi utente e personaggi. 
+
+11. Indennizzo. Su richiesta scritta di Massive, acconsentite a difendere, risarcire e liberare da qualsiasi responsabilita Massive, le societa ad essa collegate, le sue filiali, affiliate, concessionarie e distributori da qualsiasi responsabilita, rivendicazione, spesa e altra perdita, compresi i compensi degli avvocati, derivanti o collegati a questo Accordo o all'utilizzo del vostro account. Massive si riserva il diritto, a proprie spese, di assumere la difesa esclusiva e il controllo di qualsiasi questione altrimenti soggetta a indennizzo da parte vostra. In tal caso, non avrete ulteriori obblighi di fornire la difesa in questione. 
+
+12. Esclusione di garanzie. IL SERVIZIO VIENE FORNITO "COSI COM'E" SENZA GARANZIE DI ALCUN TIPO. MASSIVE NON GARANTISCE CHE IL FUNZIONAMENTO DEL PROGRAMMA SARA PRIVO DI INTERRUZIONI O ERRORI. MASSIVE NON RICONOSCE ALCUNA GARANZIA, ESPRESSA O IMPLICITA, INCLUSE E SENZA LIMITAZIONE, LE GARANZIE IMPLICITE E LE CONDIZIONI DI COMMERCIABILITA, DI IDONEITA PER UNO SCOPO SPECIFICO E DI NON VIOLAZIONE DI DIRITTI ALTRUI. 
+
+13. Limitazione di responsabilita. MASSIVE NON SARA RESPONSABILE PER QUALSIASI PERDITA O DANNO DERIVANTI O PRODOTTI DALL'UTILIZZO O DAL TENTATO UTILIZZO DI MASSGATE, INCLUSI E SENZA LIMITAZIONE, LA PERDITA DI VANTAGGI, LA SOSPENSIONE DI LAVORO, IL MALFUNZIONAMENTO DI COMPUTER O LA PERDITA DI DATI.
+
+14. Varie. Questo Accordo di licenza deve essere regolato e interpretato in conformita con le leggi della Svezia, indipendentemente da eventuali principi vigenti in materia di conflitti legislativi. Chiunque decida di utilizzare il Servizio da altri luoghi, lo fara di propria iniziativa e sara responsabile dell'osservanza delle leggi locali. Nel caso in cui qualsiasi clausola del presente Accordo fosse dichiarata illegale, nulla o non applicabile per qualsiasi motivo, sara rimossa dal presente accordo e non avra nessun effetto sulle validita e sul valore esecutivo delle rimanenti clausole dell'Accordo. Il presente Accordo costituisce l'intero accordo tra le parti in materia. Massive si osserva il diritto, a sua esclusiva e assoluta discrezione, di cambiare i termini del presente Accordo in qualunque momento, tramite pubblicazione dei nuovi termini sul sito Internet del Servizio. L'utilizzo del Servizio dopo che il presente accordo e stato modificato o sostituito indica la vostra accettazione dei nuovi termini. 
+
+World in Conflict e Massive Entertainment sono marchi registrati di Massive Entertainment, AB. Tutti i diritti riservati.

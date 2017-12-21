@@ -1,0 +1,6 @@
+build
+massgate_log_*.txt
+massgate_sql_*.txt
+ERR_MassgateServers.xml
+ERR_MassgateServers.txt
+LOG_MassgateServers.txt

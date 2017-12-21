@@ -1,0 +1,123 @@
+add_library(MServerBox
+	MSB_256Bits.h
+	MSB_BitBuffer.cpp
+	MSB_BitBuffer.h
+	MSB_BitStream.cpp
+	MSB_BitStream.h	
+	MSB_BoundQueue.h
+	MSB_ClientHandler.cpp
+	MSB_ComboListener.h
+	MSB_ComboSocket.cpp
+	MSB_ComboSocket.h
+	MSB_Connection_Win.cpp
+	MSB_Connection_Win.h
+	MSB_Connection.h
+	MSB_ConnectionListener.cpp
+	MSB_ConnectionListener.h
+	MSB_Console.cpp
+	MSB_Console.h
+	MSB_GrowingArray.h
+	MSB_HashTable.cpp
+	MSB_HashTable.h
+	MSB_Huffman.cpp
+	MSB_Huffman.h
+	MSB_HybridArray.h
+	MSB_IArray.h
+	MSB_IMap.h
+	MSB_IMemCacheListener.h
+	MSB_IMessageHandler.h
+	MSB_IntegerStat.cpp
+	MSB_IntegerStat.h
+	MSB_IoCore_Win.cpp
+	MSB_IoCore_Win.h
+	MSB_IoCore.h
+	MSB_IStream.h
+	MSB_LinkedList.h
+	MSB_MemCache.h
+	MSB_MemoryStream.cpp
+	MSB_MemoryStream.h
+	MSB_MessageHandler_Console.h
+	MSB_MessageHandler.cpp
+	MSB_MessageHandler.h
+	MSB_RawUDPSocket.cpp
+	MSB_RawUDPSocket.h
+	MSB_ReadMessage.cpp
+	MSB_ReadMessage.h
+	MSB_Resolver_Win.cpp
+	MSB_Resolver_Win.h
+	MSB_Resolver.cpp
+	MSB_Resolver.h
+	MSB_RWLock.cpp
+	MSB_RWLock.h
+	MSB_ServerBox.h
+	MSB_SimpleCounterStat.cpp
+	MSB_SimpleCounterStat.h
+	MSB_Socket_Win.cpp
+	MSB_Socket_Win.h
+	MSB_StackTraceException.cpp
+	MSB_StackTraceException.h
+	MSB_Stats.cpp
+	MSB_Stats.h
+	MSB_StatsContext.cpp
+	MSB_StatsContext.h
+	MSB_StringStat.cpp
+	MSB_StringStat.h
+	MSB_TCPConnection_Win.cpp
+	MSB_TCPConnection_Win.h
+	MSB_TCPConnection.h
+	MSB_TCPConnectionListener.cpp
+	MSB_TCPConnectionListener.h
+	MSB_TCPListener.cpp
+	MSB_TCPListener.h
+	MSB_TCPSocket.cpp
+	MSB_TCPSocket.h
+	MSB_TCPWriteList.cpp
+	MSB_TCPWriteList.h
+	MSB_TemplatedListener.h
+	MSB_Types.cpp
+	MSB_Types.h
+	MSB_UDPSocket.cpp
+	MSB_UDPSocket.h
+	MSB_UDPWriteList.cpp
+	MSB_UDPWriteList.h
+	MSB_UnboundMemCache.h
+	MSB_Vitter.h
+	MSB_WorkerThread.cpp
+	MSB_WorkerThread.h
+	MSB_WriteableMemoryStream.cpp
+	MSB_WriteableMemoryStream.h
+	MSB_WriteBuffer.cpp
+	MSB_WriteBuffer.h
+	MSB_WriteBufferPool.cpp
+	MSB_WriteBufferPool.h
+	MSB_WriteList.cpp
+	MSB_WriteList.h
+	MSB_WriteMessage.cpp
+	MSB_WriteMessage.h
+	MSB_Xtea.cpp
+	MSB_Xtea.h
+	stdafx.cpp
+	stdafx.h
+)
+
+add_library(Lib::MServerBox ALIAS MServerBox)
+
+target_link_libraries(MServerBox
+	PRIVATE
+		Lib::MCommon2
+		Lib::MLogger
+		Lib::MDatabase
+		iphlpapi
+		ws2_32
+)
+
+target_include_directories(MServerBox
+	PUBLIC
+		${CMAKE_CURRENT_SOURCE_DIR}
+)
+
+set_target_properties(MServerBox
+	PROPERTIES
+		CXX_STANDARD 98
+		FOLDER "lib"
+)

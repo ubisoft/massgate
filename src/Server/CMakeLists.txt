@@ -1,0 +1,124 @@
+add_executable(Server
+	MMS_AccountAuthenticationUpdater.cpp
+	MMS_AccountAuthenticationUpdater.h
+	MMS_AccountConnectionHandler.cpp
+	MMS_AccountConnectionHandler.h
+	MMS_Assert.cpp
+	MMS_Assert.h
+	MMS_BanManager.cpp
+	MMS_BanManager.h
+	MMS_BestOfLadder.cpp
+	MMS_BestOfLadder.h
+	MMS_CafeManager.cpp
+	MMS_CafeManager.h
+	MMS_CdKeyManagement.cpp
+	MMS_CdKeyManagement.h
+	MMS_ChatRoom.cpp
+	MMS_ChatRoom.h
+	MMS_ChatServerConnectionHandler.cpp
+	MMS_ChatServerConnectionHandler.h
+	MMS_ClanColosseum.cpp
+	MMS_ClanColosseum.h
+	MMS_ClanNameCache.cpp
+	MMS_ClanNameCache.h
+	MMS_ClanSmurfTester.cpp
+	MMS_ClanSmurfTester.h
+	MMS_ClanStats.cpp
+	MMS_ClanStats.h
+	MMS_ConnectionLog.cpp
+	MMS_ConnectionLog.h
+	MMS_Constants.cpp
+	MMS_Constants.h
+	MMS_CycleHashList.cpp
+	MMS_CycleHashList.h
+	MMS_DatabaseConnection.h
+	MMS_DatabasePool.cpp
+	MMS_DatabasePool.h
+	MMS_DoubleBufferedArray.h
+	MMS_DubbleBufferedArray.cpp
+	MMS_EloLadder.cpp
+	MMS_EloLadder.h
+	MMS_EventTypes.h
+	MMS_ExecutionTimeSampler.cpp
+	MMS_ExecutionTimeSampler.h
+	MMS_FriendsLadder.cpp
+	MMS_FriendsLadder.h
+	MMS_GeoIP.cpp
+	MMS_GeoIP.h
+	MMS_HashTable.cpp
+	MMS_HashTable.h
+	MMS_HeapImplementation.h
+	MMS_HistoryLadder.cpp
+	MMS_HistoryLadder.h
+	MMS_InitData.cpp
+	MMS_InitData.h
+	MMS_IOCPServer.cpp
+	MMS_IOCPServer.h
+	MMS_IocpWorkerThread.cpp
+	MMS_IocpWorkerThread.h
+	MMS_LadderUpdater.cpp
+	MMS_LadderUpdater.h
+	MMS_MapBlackList.cpp
+	MMS_MapBlackList.h
+	MMS_MassgateServers.cpp
+	MMS_MasterConnectionHandler.cpp
+	MMS_MasterConnectionHandler.h
+	MMS_MasterServer.cpp
+	MMS_MasterServer.h
+	MMS_MessagingConnectionHandler.cpp
+	MMS_MessagingConnectionHandler.h
+	MMS_MessagingNATNegotiationHandler.cpp
+	MMS_MessagingNATNegotiationHandler.h
+	MMS_MultiKeyManager.cpp
+	MMS_MultiKeyManager.h
+	MMS_NATNegotiationLut.cpp
+	MMS_NATNegotiationLut.h
+	MMS_NATNegotiationRelayingServer.cpp
+	MMS_NATNegotiationRelayingServer.h
+	MMS_NATNegotiationRelayingServerConnectionHandler.cpp
+	MMS_NATNegotiationRelayingServerConnectionHandler.h
+	MMS_PersistenceCache.cpp
+	MMS_PersistenceCache.h
+	MMS_PlayerStats.cpp
+	MMS_PlayerStats.h
+	MMS_SanityServer.cpp
+	MMS_SanityServer.h
+	MMS_ServerList.cpp
+	MMS_ServerList.h
+	mms_serverlut.cpp
+	mms_serverlut.h
+	mms_serverlutcontainer.cpp
+	mms_serverlutcontainer.h
+	MMS_ServerStats.cpp
+	MMS_ServerStats.h
+	MMS_ServerTracker.cpp
+	MMS_ServerTracker.h
+	MMS_ServerTrackerConnectionHandler.cpp
+	MMS_ServerTrackerConnectionHandler.h
+	MMS_Statistics.cpp
+	MMS_Statistics.h
+	MMS_Streamable.h
+	MMS_ThreadSafeQueue.cpp
+	MMS_ThreadSafeQueue.h
+	MMS_TimeoutTimer.cpp
+	MMS_TimeoutTimer.h
+	stdafx.cpp
+	stdafx.h
+)
+
+target_link_libraries(Server
+	PRIVATE
+		Lib::MCommon2
+		Lib::MDatabase
+		Lib::MLogger
+		Lib::MNetwork
+		Lib::MMassgate
+		wininet
+)
+
+set_target_properties(Server
+	PROPERTIES
+		CXX_STANDARD 98
+		FOLDER "app"
+		OUTPUT_NAME MMassgateServers
+)

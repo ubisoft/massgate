@@ -1,0 +1,124 @@
+UMOWA UŻYTKOWNIKA
+
+Prosimy o uważne przeczytanie niniejszej umowy przed zainstalowaniem gry (zwanej w dalszej części tego dokumentu „Produktem Multimedialnym”).
+Poniższa umowa (zwana dalej „Umową”) zostaje zawarta pomiędzy użytkownikiem oprogramowania (zwanym w dalszej części „Użytkownikiem”) a firmą Ubisoft Entertainment i/lub jej licencjodawcami i/lub beneficjentami (w skrócie: „firmą Ubisoft”). Umowa ta pozwala udzielić Użytkownikowi niewyłącznego i niezbywalnego prawa na użycie Produktu Multimedialnego.
+Instalując ten Produkt Multimedialny Użytkownik zobowiązuje się przestrzegać warunków zawartych w niniejszej Umowie.
+
+1-	Umowa
+
+Firma Ubisoft udziela Użytkownikowi niewyłącznego i niezbywalnego prawa do użytkowania tego Produktu Multimedialnego, ale pozostaje właścicielem wszystkich praw do niego.
+Każde prawo, które nie zostało jasno określone przez niniejszą Umowę jako przekazane Użytkownikowi, pozostaje własnością firmy Ubisoft.
+Produkt Multimedialny wyposażony jest w możliwość gry wieloosobowej w trybie multi-player, która umożliwia użytkownikom wykorzystywanie Produktu Multimedialnego w Internecie przy pomocy serwisu Massgate („Massgate”). Użytkowanie Produktu Multimedialnego w Internecie odbywa się pod warunkiem stworzenia przez Użytkownika konta w celu użytkowania Programu („Konto”) w Serwisie Massgate oraz zaakceptowania przez Użytkownika Regulaminu, który może być modyfikowany lub ulec zmianom w dowolnym terminie. Program może także zawierać Edytor Kampanii („Edytor”), który pozwala Użytkownikowi na tworzenie niestandardowych poziomów lub innych materiałów do prywatnego użytku związanego z Produktem Multimedialnym („Nowe Materiały”). Wszelkie użytkowanie Edytora lub jakichkolwiek Nowych Materiałów podlega postanowieniom niniejszej Umowy Licencyjnej.
+Ten Produkt Multimedialny jest licencjonowany Użytkownikowi tylko i wyłącznie do celów prywatnych, a nie sprzedawany.
+Umowa ta nie przyznaje Użytkownikowi żadnych praw ani tytułów do Produktu Multimedialnego i nie może być rozumiana jako przekazanie praw własności intelektualnych.
+
+TEN PRODUKT MULTIMEDIALNY MOŻE BYĆ CHRONIONY ZA POMOCĄ OPROGRAMOWANIA POZWALAJĄCEGO NA ZARZĄDZANIE PRAWAMI CYFROWYMI (W SKRÓCIE „OPROGRAMOWANIA DRM”). W TAKIM PRZYPADKU UŻYTKOWNIK NINIEJSZYM PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ NA NASTĘPUJĄCE WARUNKI DOTYCZĄCE OPROGRAMOWANIA DRM: (I) INSTALACJA PRODUKTU MULTIMEDIALNEGO SPRAWI, ŻE NA KOMPUTERZE UŻYTKOWNIKA ZOSTANIE ZAINSTALOWANE OPROGRAMOWANIE DRM; (II) OPROGRAMOWANIE DRM MOŻE OGRANICZYĆ LICZBĘ INSTALACJI TEGO PRODUKTU MULTIMEDIALNEGO; (III) OPROGRAMOWANIE DRM MOŻE ZAINSTALOWAĆ NA KOMPUTERZE UŻYTKOWNIKA DODATKOWE SKŁADNIKI POTRZEBNE DO ZABEZPIECZENIA PRZED KOPIOWANIEM; (IV) PODCZAS INSTALACJI I/LUB PIERWSZEGO URUCHOMIENIA MOŻE BYĆ POTRZEBNE POŁĄCZENIE Z INTERNETEM, ABY ZDJĄĆ BLOKADĘ DLA PRODUKTU MULTIMEDIALNEGO POPRZEZ OPROGRAMOWANIE DRM. W ŻADNYM WYPADKU  UBISOFT NIE PONOSI ODPOWIEDZIALNOŚCI W ZWIĄZKU Z KOMPONENTAMI, KTÓRE MOGĄ ZOSTAĆ ZAINSTALOWANE NA KOMPUTERZE UŻYTKOWNIKA PRZEZ DOWOLNE OPROGRAMOWANIE DRM. ABY DOWIEDZIEĆ SIĘ WIĘCEJ, ODWIEDŹ WITRYNĘ OPROGRAMOWANIA DRM, KTÓREJ ADRES WYŚWIETLANY JEST PODCZAS INSTALACJI GRY.
+
+2-	Prawo do posiadania Produktu Multimedialnego
+
+Użytkownik potwierdza, że wszystkie prawa związane z Produktem Multimedialnym i jego częściami składowymi (szczególnie jeśli chodzi o: tytuły, kod źródłowy, tematykę, postacie, imiona postaci, wątki fabularne, dialogi, lokacje, pomysły, obrazy, fotografie, animacje, filmy wideo, muzykę oraz teksty zawarte w Produkcie Multimedialnym), a także prawa dotyczące znaków towarowych, tantiem oraz prawa autorskie są własnością firmy Ubisoft i chroni je prawo francuskie, a także inne prawa, traktaty i umowy międzynarodowe, odnoszące się do własności intelektualnej. 
+
+3-	Regulamin
+
+Użytkownik musi zaakceptować Regulamin, aby uzyskać dostęp do Massgate w celu użytkowania Produktu Multimedialnego online. Umowa Regulaminu reguluje wszystkie aspekty gry. Umowa Regulaminu jest dostępna do wglądu pod następującym adresem internetowym: www.worldinconflict.com/tos/en. W przypadku nie wyrażenia zgody na warunki Regulaminu, Użytkownik nie może zarejestrować Konta w celu użytkowania Produktu Multimedialnego.
+
+4-	Prawo do użytkowania Produktu Multimedialnego
+
+Użytkownik ma prawo do korzystania z Produktu Multimedialnego zgodnie z instrukcjami zawartymi na opakowaniu oraz w podręczniku użytkownika.
+Zawarta Umowa dotyczy wyłącznie użytku prywatnego.
+
+Użytkownikowi nie wolno:
+-	Tworzyć kopii Produktu Multimedialnego
+-	Wykorzystywać Produkt Multimedialny do celów komercyjnych
+-	Użytkować go niezgodnie z obowiązującym prawem lub zasadami moralności
+-	Modyfikować Produktu Multimedialnego lub tworzyć jakichkolwiek dzieł pochodnych na jego podstawie
+-	Przesyłać Produktu Multimedialnego poprzez sieć telefoniczną lub jakąkolwiek metodą cyfrową, z wyłączeniem gry wieloosobowej na autoryzowanych serwerach
+-	Tworzyć lub dystrybuować nieautoryzowanych poziomów i/lub scenariuszy
+-	Dokonywać dekompilacji lub rozkładania Produktu Multimedialnego na części
+
+Użytkownik nie może sprzedawać, podlicencjonować ani wypożyczać Produktu Multimedialnego osobom trzecim.
+Użytkownik może przekazać Produkt Multimedialny tylko wtedy, gdy nowy właściciel zgodzi na warunki zawarte w niniejszej Umowie. W takim przypadku, Użytkownik ma obowiązek przekazać nabywcy wszystkie elementy oraz dokumentację składającą się na Produkt Multimedialny. Zobowiązuje się również do usunięcia wszystkich kopii Produktu Multimedialnego ze swojego komputera. W takim przypadku, niniejsza Umowa automatycznie wygasa, ze skutkiem natychmiastowym.
+Użytkownik przyjmuje do wiadomości, że firma Ubisoft może gromadzić i wykorzystywać pewien rodzaj danych na jego temat, zgodnie z polityką prywatności przedstawioną na stronie: http://www.ubi.com/UK/Info/Info.aspx?tagname=PrivacyPolicy. 
+
+5-	Łaty, aktualizacje i zbieranie danych crash data
+
+Ubisoft może zamieszczać lub dostarczać łaty, aktualizacje i modyfikacje do Produktu Multimedialnego, które muszą zostać zainstalowane przez Użytkownika w celu dalszego użytkowania Produktu Multimedialnego. Dodatkowo Produkt Multimedialny może zawierać narzędzie umożliwiające systemowi Użytkownika przekazywanie informacji związanych z systemem i sterownikami do Ubisoft w przypadku awarii. Narzędzie to będzie zbierało dane o systemie w trakcie awarii i prześle te informacje do Ubisoft. Użytkownik niniejszym wyraża zgodę na przekazywanie do Ubisoft takich informacji w przypadku awarii dla celów diagnostycznych.
+
+6-	Wygaśnięcie Umowy
+
+Niniejsza Umowa wchodzi w życie w momencie pierwszego skorzystania z Produktu Multimedialnego.
+Natomiast firma Ubisoft zrywa ją automatycznie i bez wcześniejszego powiadomienia, jeśli Użytkownik nie zastosuje się do zawartych w niej warunków.
+
+7-	Gwarancja
+Firma Ubisoft na okres 90 dni od daty zakupu gwarantuje pierwotnemu nabywcy jej produktów („Użytkownikowi”), że materiały, z których zostały wykonane nie będą miały wad, ponadto nie będzie uchybień w jakości wykonania. Produkty firmy Ubisoft są sprzedawane w postaci „takich, jakie są”, bez żadnych oczywistych lub dorozumianych gwarancji. Firma Ubisoft nie ponosi odpowiedzialności za jakiekolwiek szkody, będące wynikiem użytkowania jej produktów. Firma Ubisoft zgadza się, że w okresie dziewięćdziesięciu (90) dni (lub w dłuższym okresie gwarancji, określonym przez stosowny system prawny) za darmo naprawi lub wymieni wadliwy produkt, zakładając Użytkownik zwróci wadliwy egzemplarz wraz z paragonem do sklepu, w którym dokonał zakupu. Podstawą uznania gwarancji jest data na paragonie. Niniejsza gwarancja nie obejmuje zwyczajnego zużycia produktu wskutek eksploatacji oraz wypadków, gdy został uszkodzony w wyniku zaniedbania czy też niewłaściwego, nieodpowiedniego i nierozważnego użytkowania. 
+
+Firma Ubisoft gwarantuje pomoc techniczną. Przed zgłoszeniem się, prosimy o przygotowanie jak najdokładniejszych informacji o występującym problemie oraz o podanie poniższych informacji:
+
+•	Nazwy producenta komputera
+•	Marki i prędkości procesora
+•	Ilości posiadanej pamięci ram
+•	Numeru wersji systemu Windows (jeśli użytkownik nie jest pewien, może kliknąć PPM na ikonę Mój Komputer i wybrać opcję Właściwości)
+•	Nazwę producenta i numer serii karty graficznej, modemu oraz karty dźwiękowej
+
+8-	Ograniczenia gwarancji
+
+Użytkownik przyjmuje do wiadomości, że korzysta z Produktu Multimedialnego na własne ryzyko.
+Produkt Multimedialny jest dostarczany w postaci takiej, jaki jest. Użytkownik pokrywa wszystkie koszty naprawy lub/i poprawek Produktu Multimedialnego.
+W najwyższym stopniu, dozwolonym przez obowiązujące prawo, firma Ubisoft nie udziela jakiejkolwiek gwarancji związanej z wartością rynkową Produktu Multimedialnego, satysfakcją Użytkownika czy jego zdolnością do konkretnego wykorzystania produktu.
+Użytkownik sam odpowiada za ryzyko związane z utratą zysków czy danych, błędami, nieudanymi przedsięwzięciami handlowymi oraz z utratą jakichkolwiek innych informacji, związanych z posiadaniem czy też użytkowaniem Produktu Multimedialnego.
+Ponieważ niektóre systemy prawne nie zezwalają na stosowanie powyższych ograniczeń gwarancji, mogą one nie dotyczyć Użytkownika.
+
+9-	Odpowiedzialność
+
+W żadnym wypadku firma Ubisoft nie może być odpowiedzialna za jakiekolwiek bezpośrednie, wynikające z pewnego następstwa wypadków, przypadkowe, umyślne oraz inne szkody, będące skutkiem użytkowania lub niezdolności do użytkowania Produktu Multimedialnego przez Użytkownika. Podobnie firma Ubisoft nie może też być odpowiedzialna za szkody wynikające z posiadania lub wadliwego działania produktu, nawet jeśli firma Ubisoft została powiadomiona o możliwości wystąpienia takich szkód.
+
+W szczególności firma Ubisoft nie odpowiada za użytkowanie Produktu Multimedialnego niezgodnie z zasadami i ostrzeżeniami, znajdującymi się w podręczniku użytkownika oraz na opakowaniu.
+
+Ponieważ niektóre systemy prawne nie zezwalają na uchylanie się od odpowiedzialności jeśli chodzi o szkody przypadkowe i bezpośrednie, powyższe wyłączenie może nie dotyczyć Użytkownika.
+
+Niniejsza Umowa, zezwalająca na użytkowanie tego Produktu Multimedialnego udziela Użytkownikowi określonych praw. Natomiast Użytkownik może posiadać dodatkowe prawa, w zależności od systemu prawnego, stosowanego w jego kraju. 
+
+10-	Wykorzystanie oprogramowania SpeedTree
+Interactive Data Visualization, Inc. posiada specjalne wymogi w zakresie języka umownego związane z użytkowaniem jej oprogramowania SpeedTree, które Ubisoft ma obowiązek zawrzeć w niniejszej Umowie Licencyjnej Użytkownika Końcowego.
+A. Użytkownik będzie przestrzegał wszelkich wymogów nałożonych na Ubisoft przez osoby trzecie będące dostawcami usług oraz przez licencjodawców, w tym, bez ograniczeń, przez Interactive Data Visualization, Inc. („IDV”).
+B. Użytkownik przyjmuje do wiadomości i uznaje, że nie jest osobą trzecią będącą beneficjentem jakichkolwiek umów zawartych pomiędzy firmą Ubisoft a osobami trzecimi dostarczającymi jej usługi, oraz jej licencjodawcami, w tym, bez ograniczeń, IDV.
+C. Użytkownik przyjmuje do wiadomości i uznaje, że IDV jest i pozostanie osobą trzecią będącą beneficjentem niniejszej Umowy Licencyjnej Użytkownika Końcowego.
+D. Użytkownik przyjmuje do wiadomości i zobowiązuje się, że nie będzie wnosił żadnych roszczeń, pozwów ani żądań przeciwko IDV w związku z jakimikolwiek stratami, kosztami, odpowiedzialnością, szkodami lub wydatkami związanymi lub powstałymi w związku z niniejszą Umową Licencyjną Użytkownika Końcowego lub Oprogramowaniem/Programami IDV. Dla wyjaśnienia, Użytkownik nie ma prawa zgłaszać roszczeń ani wszcząć żadnego postępowania przeciwko IDV w związku z niniejszą Umową Licencyjną Użytkownika Końcowego lub Oprogramowaniem/Programami IDV.
+E. Użytkownik przyjmuje do wiadomości, że IDV nie udziela mu żadnych gwarancji w związku z Oprogramowaniem/Programami IDV, że IDV wyraźnie odrzuca implikowane gwarancje zbywalności bądź zdatności do konkretnego celu, oraz że IDV nie jest zobowiązana do honorowania jakichkolwiek gwarancji jakie mogły mu zostać udzielone przez Licencjodawcę w niniejszej Umowie Licencyjnej Użytkownika Końcowego lub w inny sposób.
+F. IDV zachowuje wszystkie i wszelkie prawa, tytuły, udziały oraz prawa własności intelektualnej jakie posiada do Oprogramowania/Programów IDV, w tym do wszelkich rezultatów i/lub wyników wytworzonych przez Użytkownika poprzez użytkowanie Oprogramowania/Programów IDV, jakie mogą być zawarte w Umowie Licencyjnej Użytkownika Końcowego, a żaden tytuł własności do takiego Oprogramowania/Programów IDV, w tym do wszelkich rezultatów i/lub przychodów, nie ulega przeniesieniu na Użytkownika ani inne osoby trzecie na mocy niniejszej Umowy Licencyjnej Użytkownika Końcowego, ani w inny sposób.
+G.	Użytkownik ani żaden z jego przedstawicieli lub konsultantów nie ma prawa do dokonywania cesji, sublicencjonowania, przekazywania, reprodukcji, kopiowania, modyfikowania, demontowania, dekompilowania ani stosowania inżynierii wstecznej do jakiejkolwiek części Oprogramowania/Programów IDV; jednakże z zastrzeżeniem, że Użytkownik może udostępniać w sposób wolny od opłat (tzn. bez prawa do pobierania opłat licencyjnych lub innych za takie rezultaty lub wyniki) rezultaty/wyniki innym posiadającym odpowiednią licencję użytkownikom końcowym programu World in Conflict obejmującego Oprogramowanie/Programy IDV jako część „edytora mapy”.
+H.	Użytkownik zobowiązany jest do przestrzegania wszystkich odpowiednich przepisów prawa, rozporządzeń i regulacji związanych z eksportem danych technicznych i nie ma prawa do eksportu ani ponownego eksportu żadnych danych technicznych, żadnych produktów otrzymanych od Licencjodawcy, ani bezpośredniego produktu takich danych technicznych do żadnego z państw objętych zakazem, wymienionych w odpowiednich przepisach prawa, rozporządzeniach i regulacjach bez właściwego upoważnienia.
+
+MICROSOFT DirectX 9.0c
+ 
+UZUPEŁNIAJĄCA UMOWA LICENCYJNA UŻYTKOWNIKA OPROGRAMOWANIA FIRMY MICROSOFT („Uzupełniająca Umowa Licencyjna”) 
+
+WAŻNE: PRZECZYTAĆ DOKŁADNIE – Niniejsze składniki oprogramowania systemu operacyjnego firmy Microsoft Corporation (zwanej w skrócie „firmą Microsoft”), łącznie z dokumentacją w postaci „online” i dokumentacją elektroniczną (zwane wspólnie „Składnikami SO”), podlegają postanowieniom umowy licencyjnej dotyczącej odpowiedniego systemu operacyjnego firmy Microsoft opisanego poniżej (umowa ta będzie dalej zwana „Umową Licencyjną”) oraz postanowieniom niniejszej Uzupełniającej Umowy Licencyjnej. POPRZEZ INSTALOWANIE, KOPIOWANIE LUB UŻYWANIE W INNY SPOSÓB SKŁADNIKÓW SO, LICENCJOBIORCA ZGADZA SIĘ PRZESTRZEGAĆ POSTANOWIEŃ UMOWY LICENCYJNEJ DOTYCZĄCEJ ODPOWIEDNIEGO SYSTEMU OPERACYJNEGO ORAZ NINIEJSZEJ UZUPEŁNIAJĄCEJ UMOWY LICENCYJNEJ. JEŚLI LICENCJOBIORCA NIE ZGADZA SIĘ PRZESTRZEGAĆ TYCH POSTANOWIEŃ, NIE MA ON PRAWA DO INSTALOWANIA, KOPIOWANIA ANI UŻYWANIA SKŁADNIKÓW SO. 
+
+UWAGA: JEŚLI LICENCJOBIORCA NIE POSIADA WAŻNIE LICENCJONOWANEJ KOPII DOWOLNEJ WERSJI LUB EDYCJI SYSTEMU OPERACYJNEGO MICROSOFT WINDOWS 95, WINDOWS 98, WINDOWS NT 4.0, WINDOWS 2000 LUB SYSTEMU OPERACYJNEGO FIRMY MICROSOFT BĘDĄCEGO NASTĘPCĄ TYCH SYSTEMÓW OPERACYJNYCH (każdy z nich będzie zwany „Produktem SO”), NIE MA ON PRAWA DO INSTALOWANIA, KOPIOWANIA ANI UŻYWANIA W INNY SPOSÓB SKŁADNIKÓW SO, ANI TEŻ NIE MA ŻADNYCH PRAW WYNIKAJĄCYCH Z NINIEJSZEJ UZUPEŁNIAJĄCEJ UMOWY LICENCYJNEJ. 
+
+Terminy pisane wielką literą, używane w niniejszej Uzupełniającej Umowie Licencyjnej, a w niej w inny sposób nie określone, mają znaczenie nadane im w odpowiedniej Umowie Licencyjnej dotyczącej Produktu SO. 
+
+Postanowienia ogólne. Każdy ze Składników SO udostępniany w niniejszej witrynie jest przystosowany do jednego lub więcej Produktów SO. Odpowiednie Składniki SO są dostarczane Licencjobiorcy przez firmę Microsoft, aby zaktualizować, uzupełnić lub zastąpić istniejące funkcje odpowiedniego Produktu SO. Firma Microsoft udziela Licencjobiorcy licencji na używanie odpowiednich Składników SO zgodnie z postanowieniami Umowy Licencyjnej dotyczącej odpowiedniego Produktu SO (które są włączone do niniejszej Uzupełniającej Umowy Licencyjnej przez ich przywołanie, z wyjątkiem postanowień zamieszczonych poniżej), postanowieniami niniejszej Uzupełniającej Umowy Licencyjnej oraz postanowieniami wszystkich dodatkowych umów licencyjnych użytkownika, które mogą towarzyszyć poszczególnym Składnikom SO (każda z nich będzie zwana „Indywidualną Umową Licencyjną”), pod warunkiem przestrzegania przez Licencjobiorcę wszystkich tych postanowień. W zakresie, w którym jakiekolwiek z tych postanowień stoi w sprzeczności z postanowieniami dotyczącymi Składników OS, podstawą wykładni są w następującej kolejności: 1) postanowienia Indywidualnej Umowy Licencyjnej, 2) postanowienia niniejszej Uzupełniającej Umowy Licencyjnej oraz 3) postanowienia Umowy Licencyjnej dotyczącej odpowiedniego Produktu SO. 
+
+Dodatkowe prawa i ograniczenia. 
+
+* Jeśli Licencjobiorca posiada kilka ważnie licencjonowanych kopii dowolnego Produktu SO, to może kopiować, instalować i używać jednej kopii odpowiednich Składników SO jako części odpowiedniego Produktu SO na wszystkich swoich komputerach, na których są uruchomione ważnie licencjonowane kopie odpowiedniego Produktu SO, pod warunkiem, że Licencjobiorca używa tych dodatkowych kopii Składników SO zgodnie z postanowieniami określonymi powyżej. Dla każdej ważnie licencjonowanej kopii odpowiedniego Produktu SO, Licencjobiorca może także sporządzić jedną dodatkową kopię odpowiednich Składników SO wyłącznie w celach archiwalnych lub do ponownej instalacji tych składników na tym samym komputerze, na którym były one poprzednio zainstalowane. Firma Microsoft zachowuje wszelkie prawa, prawa własności i dobra związane ze Składnikami SO. Wszelkie prawa nie udzielone wyraźnie są zastrzeżone przez firmę Microsoft. 
+
+* Jeśli Licencjobiorca instaluje Składniki SO w imieniu organizacji innej niż jego własna, to musi przed zainstalowaniem jakichkolwiek Składników SO upewnić się, że użytkownik (zarówno osoba fizyczna, jak i prawna) otrzymał, przeczytał i zaakceptował niniejsze postanowienia. 
+
+* Składniki SO mogą zawierać technologię, która umożliwia współużywanie aplikacji przez dwa lub więcej komputery, nawet gdy aplikacja jest zainstalowana tylko na jednym z nich. Licencjobiorca może korzystać z tej technologii w odniesieniu do wszystkich aplikacji firmy Microsoft w celu prowadzenia wielostronnych konferencji. W odniesieniu do aplikacji nie będących produktami firmy Microsoft, Licencjobiorca powinien zapoznać się z odpowiednimi umowami licencyjnymi lub skontaktować się z licencjodawcą, aby ustalić, czy współużywanie jest dozwolone przez licencjodawcę. 
+
+* Nie wolno ujawniać wyników żadnych testów wydajności składnika platformy .NET Framework Składników OS stronie trzeciej bez wcześniejszej pisemnej zgody firmy Microsoft.
+
+WYŁĄCZNIE W ODNIESIENIU DO MASZYNY WIRTUALNEJ MICROSOFT DLA JĘZYKA JAVA UŻYTKOWNIK OTRZYMUJE JEDYNIE LICENCJĘ NA INSTALACJĘ TEGO SKŁADNIKA SYSTEMU OPERACYJNEGO NA KOMPUTERZE ZAWIERAJĄCYM JUŻ WERSJĘ MASZYNY WIRTUALNEJ MICROSOFT DLA JĘZYKA JAVA.
+
+JEŚLI LICENCJA NA ODPOWIEDNI PRODUKT SO ZOSTAŁA UDZIELONA LICENCJOBIORCY PRZEZ FIRMĘ MICROSOFT LUB JEDNEGO Z JEJ PEŁNOPRAWNYCH PRZEDSTAWICIELI, TO OGRANICZONA GWARANCJA (JEŚLI TAKA ISTNIEJE) ZNAJDUJĄCA SIĘ W UMOWIE LICENCYJNEJ DOTYCZĄCEJ TEGO PRODUKTU OBEJMUJE RÓWNIEŻ ODPOWIEDNIE SKŁADNIKI SO, POD WARUNKIEM, ŻE LICENCJA NA TE SKŁADNIKI OBEJMUJE POSTANOWIENIA OGRANICZONEJ GWARANCJI ZNAJDUJĄCE SIĘ W UMOWIE LICENCYJNEJ DOTYCZĄCEJ ODPOWIEDNIEGO PRODUKTU SO. JEDNAKŻE NINIEJSZA UZUPEŁNIAJĄCA UMOWA LICENCYJNA NIE PRZEDŁUŻA OKRESU CZASU, NA JAKI OGRANICZONA GWARANCJA ZOSTAŁA UDZIELONA. 
+
+JEŚLI LICENCJA NA ODPOWIEDNI PRODUKT SO ZOSTAŁA UDZIELONA LICENCJOBIORCY PRZEZ JEDNOSTKĘ INNĄ NIŻ FIRMA MICROSOFT LUB JEDEN Z JEJ PEŁNOPRAWNYCH PRZEDSTAWICIELI, TO FIRMA MICROSOFT NA PONIŻSZYCH ZASADACH WYŁĄCZA SWOJĄ ODPOWIEDZIALNOŚĆ Z TYTUŁU RĘKOJMI W ODNIESIENIU DO SKŁADNIKÓW SO. 
+
+WYŁĄCZENIE ODPOWIEDZIALNOŚCI Z TYTUŁU RĘKOJMI. W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WŁAŚCIWE FIRMA MICROSOFT I JEJ DOSTAWCY DOSTARCZAJĄ LICENCJOBIORCY SKŁADNIKI SO ORAZ POMOC TECHNICZNĄ (JEŚLI TAKA ISTNIEJE) Z NIMI ZWIĄZANĄ („POMOC TECHNICZNĄ”) W TAKIM STANIE, W JAKIM SIĘ ONE ZNAJDUJĄ, WRAZ ZE WSZYSTKIMI WADAMI; FIRMA MICROSOFT ORAZ JEJ DOSTAWCY NINIEJSZYM WYŁĄCZAJĄ SWOJĄ ODPOWIEDZIALNOŚĆ Z TYTUŁU JAKIEJKOLWIEK RĘKOJMI, WYRAŹNEJ, WYNIKAJĄCEJ Z OKOLICZNOŚCI LUB RĘKOJMI USTAWOWEJ, W ODNIESIENIU DO SKŁADNIKÓW SO ORAZ ŚWIADCZENIA POMOCY TECHNICZNEJ, MIĘDZY INNYMI W ZAKRESIE WARTOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU, BRAKU WIRUSÓW, DOKŁADNOŚCI I KOMPLETNOŚCI ODPOWIEDZI, WYNIKÓW, BRAKU STARANNOŚCI, STOSOWNEGO DOZORU LUB FACHOWOŚCI. WYŁĄCZONA TAKŻE ZOSTAJE ODPOWIEDZIALNOŚĆ Z TYTUŁU RĘKOJMI W ZAKRESIE PRAW WŁASNOŚCI, NIEZAKŁÓCONEGO UŻYWANIA, NIEZAKŁÓCONEGO POSIADANIA, ZGODNOŚCI Z OPISEM I NIENARUSZALNOŚCI PRAW OSÓB TRZECICH. CAŁE RYZYKO ZWIĄZANE Z UŻYWANIEM I FUNKCJONOWANIEM SKŁADNIKÓW SO ORAZ POMOCĄ TECHNICZNĄ, JEŚLI TAKA ISTNIEJE, SPOCZYWA NA LICENCJOBIORCY. 
+
+WYŁĄCZENIE ODPOWIEDZIALNOŚCI ZA SZKODY. W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WŁAŚCIWE FIRMA MICROSOFT ANI JEJ DOSTAWCY NIE BĘDĄ W ŻADNYM WYPADKU ODPOWIEDZIALNI ZA JAKIEKOLWIEK POWSTAŁE SZKODY (W TYM, BEZ OGRANICZEŃ, ZA: STRATY W PROWADZONEJ DZIAŁALNOŚCI, UTRATĘ POUFNYCH LUB INNYCH INFORMACJI ZWIĄZANYCH Z PROWADZONĄ DZIAŁALNOŚCIĄ, PRZERWY W PROWADZENIU DZIAŁALNOŚCI, NARUSZENIE CIAŁA, NARUSZENIE PRYWATNOŚCI, NIEDOPEŁNIENIE OBOWIĄZKÓW (ZARÓWNO W DOBREJ WIERZE, JAK I PRZY UZASADNIONYCH STARANIACH), BRAK STARANNOŚCI ORAZ INNE SZKODY FINANSOWE I JAKIEKOLWIEK STRATY) WYNIKŁE LUB W JAKIKOLWIEK SPOSÓB ZWIĄZANE Z UŻYWANIEM LUB NIEMOŻNOŚCIĄ UŻYWANIA SKŁADNIKÓW SO I POMOCY TECHNICZNEJ, ŚWIADCZENIEM POMOCY TECHNICZNEJ LUB JEJ BRAKIEM, W RAMACH LUB W ZWIĄZKU Z POSTANOWIENIAMI NINIEJSZEJ UZUPEŁNIAJĄCEJ UMOWY LICENCYJNEJ, NAWET JEŚLI FIRMA MICROSOFT LUB KTÓRYKOLWIEK Z JEJ DOSTAWCÓW ZOSTALI POWIADOMIENI O MOŻLIWOŚCI POWSTANIA TAKICH SZKÓD. 
+
+OGRANICZENIE ODPOWIEDZIALNOŚCI I ODSZKODOWANIE. BEZ WZGLĘDU NA JAKIEKOLWIEK SZKODY, KTÓRE LICENCJOBIORCA MOŻE PONIEŚĆ Z JAKIEGOKOLWIEK POWODU (W TYM, BEZ OGRANICZEŃ, WSZELKIE SZKODY WYMIENIONE POWYŻEJ ORAZ WSZELKIE SZKODY BEZPOŚREDNIE LUB BLIŻEJ NIEOKREŚLONE), CAŁKOWITA ODPOWIEDZIALNOŚĆ FIRMY MICROSOFT I JEJ DOSTAWCÓW WYNIKAJĄCA Z POSTANOWIEŃ NINIEJSZEJ UZUPEŁNIAJĄCEJ UMOWY LICENCYJNEJ, A TAKŻE JEDYNE ODSZKODOWANIE DLA LICENCJOBIORCY ZA WSZELKIE WYMIENIONE POWYŻEJ STRATY, SĄ OGRANICZONE DO RZECZYWISTYCH SZKÓD PONIESIONYCH PRZEZ LICENCJOBIORCĘ, RZETELNIE WYCENIONYCH DO WYSOKOŚCI WIĘKSZEJ Z KWOT: DO KWOTY ZAPŁACONEJ PRZEZ LICENCJOBIORCĘ ZA SKŁADNIKI SO LUB DO KWOTY 5,00 DOLARÓW AMERYKAŃSKICH. POWYŻSZE OGRANICZENIA, WYŁĄCZENIA I ZRZECZENIA OBOWIĄZUJĄ W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WŁAŚCIWE, NAWET JEŚLI ODSZKODOWANIE NIE KOMPENSUJE PONIESIONEJ SZKODY.

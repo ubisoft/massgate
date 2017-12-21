@@ -1,0 +1,7 @@
+add_subdirectory(MCommon2)
+add_subdirectory(MDatabase)
+add_subdirectory(MLogger)
+add_subdirectory(MMassgate)
+add_subdirectory(MNetwork)
+add_subdirectory(MServerBox)
+add_subdirectory(Server)

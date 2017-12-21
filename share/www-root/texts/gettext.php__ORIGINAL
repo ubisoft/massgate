@@ -1,0 +1,43 @@
+<?
+
+$file = 0;
+if(isset($_GET['lang'], $_GET['type'])) {
+  $lang = substr(strip_tags($_GET['lang']), 0, 2);
+  $type = strip_tags($_GET['type']);
+  
+  if($type == "tos") {
+    $file = "tos"; 
+  } elseif($type == "privacy") {
+    $file = "privacy"; 
+  } elseif($type == "welcome") {
+    $file = "welcome"; 
+  } elseif($type == "news") {
+    $file = "news"; 
+  } elseif($type == "eula") {
+    $file = "eula"; 
+  } elseif($type == "tournamentrules") {
+    $file = "tournamentrules"; 
+  } elseif($type == "invalidkey") {
+    $file = "invalidkey";
+  }
+ }
+if(!$file) {
+  header("HTTP/1.0 400 Bad Request");
+  return;
+ }
+$file = $lang . "/" . $file . ".txt";
+if(is_file($file)) {
+  header("Content-Type: text/plain; charset=utf-8");
+  include($file);
+ } else {
+  $file = "EN/" . $type . ".txt";
+  if(is_file($file)) {
+    header("Content-Type: text/plain; charset=utf-8");
+    include($file);
+  } else {
+    header("HTTP/1.0 404 Not Found");
+    return;
+  }
+ }
+
+?>
