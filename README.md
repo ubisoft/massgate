@@ -157,7 +157,7 @@ take over and continue with Massgate.
 If there is a major issue with the codebase that should apply to any version
 of it we will consider such a request.
 
-## Suggestions For Possible Improvemets
+## Suggestions For Possible Improvements
 
 Adding support for more databases, such as Sqllite or PostgreSQL, could ease
 setup and hosting of Massgate. If you are interested take a look at the
